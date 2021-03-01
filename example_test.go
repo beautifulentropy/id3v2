@@ -8,7 +8,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/bogem/id3v2"
+	"github.com/beautifulentropy/id3v2"
 )
 
 func Example() {

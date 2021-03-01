@@ -1,5 +1,5 @@
-module github.com/bogem/id3v2
+module github.com/beautifulentropy/id3v2
 
-go 1.13
+go 1.16
 
-require golang.org/x/text v0.3.2
+require golang.org/x/text v0.3.5
